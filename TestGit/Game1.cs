@@ -8,6 +8,7 @@ namespace TestGit
     {
         private string helpme;
         private int numnum;
+        private bool iGonnaDie;
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
