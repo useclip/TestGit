@@ -10,6 +10,7 @@ namespace TestGit
         private int numnum;
         private bool iGonnaDie;
         private string idie;
+        private string MiaRuu;
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
