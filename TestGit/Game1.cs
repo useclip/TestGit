@@ -7,6 +7,7 @@ namespace TestGit
     public class Game1 : Game
     {
         private string helpme;
+        private int numnum;
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
