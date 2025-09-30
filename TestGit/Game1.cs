@@ -16,6 +16,7 @@ namespace TestGit
         private int Speed;
         private int yippee;
         public float HelpMe;
+        public float HelpMeToo;
 
         public Game1()
         {
