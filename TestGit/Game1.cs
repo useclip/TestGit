@@ -13,6 +13,7 @@ namespace TestGit
         private string MiaRuu;
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        private int Speed;
 
         public Game1()
         {
