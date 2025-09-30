@@ -14,7 +14,8 @@ namespace TestGit
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         private int Speed;
-        Private int yippee;
+        private int yippee;
+        public float HelpMe;
 
         public Game1()
         {
