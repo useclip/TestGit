@@ -9,11 +9,10 @@ namespace TestGit
         private string helpme;
         private int numnum;
         private bool iGonnaDie;
-        private string idie;
-        private string MiaRuu;
+        private string jumptonewworld;
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-
+        private string edokhiworld;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
